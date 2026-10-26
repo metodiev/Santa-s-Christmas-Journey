@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 # Shared helpers for the Santa's Christmas Journey developer scripts.
 # Sourced by every scripts/*.sh entrypoint; never executed on its own.
+# shellcheck disable=SC2034  # constants are consumed by the sourcing scripts
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 ROOT="$(cd "$SCRIPT_DIR/../.." && pwd)"

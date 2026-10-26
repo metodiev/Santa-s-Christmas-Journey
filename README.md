@@ -97,6 +97,22 @@ tests/                    Vitest unit and level-invariant tests
 | `npm run desktop:build` | Build installers with electron-builder. |
 | `npm run smoke:electron` | Build and verify that Electron boots into the game. |
 
+### Shell scripts (`scripts/`)
+
+One-shot helpers for common device workflows. Each supports `--help`; see
+[scripts/README.md](scripts/README.md) for details and environment overrides.
+
+| Script | Purpose |
+| --- | --- |
+| `scripts/run-web.sh` | Start the web game in the background and open the browser. |
+| `scripts/stop-web.sh` | Stop the dev server and free the port. |
+| `scripts/build-android.sh` | Build an installable release APK in `dist-native/` (`--install` to push it, `--aab` for Play). |
+| `scripts/build-ios.sh` | Build a signed, installable `.ipa` (`--team` required; `--simulator` skips signing). |
+| `scripts/run-android-emulator.sh` | Boot an AVD and wait until Android is ready. |
+| `scripts/stop-android-emulator.sh` | Shut the Android emulator down. |
+| `scripts/run-ios.sh` | Build, install and launch the game in the iOS Simulator. |
+| `scripts/stop-ios.sh` | Shut the iOS Simulator down (`--all`, `--quit`). |
+
 ## Production web + PWA
 
 ```bash
