@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="136" height="420" viewBox="0 0 68 210" fill="none"><defs>
+    <radialGradient id="lamp-glow" cx="0.5" cy="0.4" r="0.8"><stop offset="0" stop-color="#fff9e8" stop-opacity="1"/><stop offset="0.5" stop-color="#ffca76" stop-opacity="1"/><stop offset="1" stop-color="#e8a94f" stop-opacity="1"/></radialGradient>
+    <linearGradient id="snow-grad-lamp" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="1"/><stop offset="1" stop-color="#cfe4f3" stop-opacity="1"/></linearGradient>
+    <filter id="lamp-soft" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+    <g>
+      <ellipse cx="34" cy="202" rx="22" ry="5" fill="#000" opacity="0.2"/>
+      <path d="M6,206 Q6,195.2 17.200000000000003,191.6 Q11.6,185.04 17.2,189.53 Q22.8,183.24 28.4,189.58 Q34,187.76 39.6,188.43 Q45.2,184.91 50.8,188.91 Q62,194.3 62,206 Z" fill="#edf7ff"/>
+      <path d="M34,196 L34,70" stroke="#2f2a2a" stroke-width="6"/>
+      <path d="M34,120 L34,190" stroke="#4a4242" stroke-width="2" opacity="0.6"/>
+      <path d="M16,62 C16,40 52,40 52,62 L52,70 L16,70 Z" fill="#80563b" stroke="#231c18" stroke-width="1.5"/>
+      <path d="M20,66 C20,46 48,46 48,66 Z" fill="url(#lamp-glow)"/>
+      <path d="M16,62 L52,62 M34,40 L34,36" stroke="#231c18" stroke-width="2"/>
+      <path d="M24,38 L34,30 L44,38 Z" fill="url(#snow-grad-lamp)"/>
+      <circle cx="34" cy="44" r="16" fill="#ffca76" opacity="0.12" filter="url(#lamp-soft)"/>
+      <path d="M22,66 C24,56 30,52 34,52 C40,52 45,57 47,66" fill="#fff3cf" opacity="0.8"/>
+      <path d="M34,196 L34,202" stroke="#231c18" stroke-width="10"/>
+    </g></svg>

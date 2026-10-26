@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="88" viewBox="0 0 44 44" fill="none"><defs><linearGradient id="jump-grad" x1="0" y1="0" x2="0.3" y2="1"><stop offset="0" stop-color="#e8fbff" stop-opacity="1"/><stop offset="1" stop-color="#7fc6de" stop-opacity="1"/></linearGradient></defs><g>
+    <path d="M22,6 L34,18 L27,18 L27,28 L17,28 L17,18 L10,18 Z" fill="url(#jump-grad)"/>
+    <path d="M8,34 C16,40 30,40 36,34 L36,38 C28,43 16,43 8,38 Z" fill="#dff3ff" opacity="0.8"/>
+    <path d="M13,35 C18,38 27,38 32,35" stroke="#ffffff" stroke-width="1" opacity="0.5" fill="none"/>
+  </g></svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 32 32" fill="none"><defs>
+    <linearGradient id="sh-grad" x1="0.2" y1="0" x2="0.8" y2="1"><stop offset="0" stop-color="#effdff" stop-opacity="1"/><stop offset="0.5" stop-color="#aee9ff" stop-opacity="1"/><stop offset="1" stop-color="#4aa7c8" stop-opacity="1"/></linearGradient>
+    <filter id="sh-glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="1.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+    <g filter="url(#sh-glow)">
+      <path d="M16,2 L25,12 L20,29 L10,24 L7,12 Z" fill="url(#sh-grad)"/>
+      <path d="M16,4 L12,13 L17,26" stroke="#ffffff" stroke-width="0.8" opacity="0.7" fill="none"/>
+    </g>
+  </svg>

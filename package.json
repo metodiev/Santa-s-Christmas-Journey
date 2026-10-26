@@ -1,0 +1,98 @@
+{
+  "name": "santas-christmas-journey",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Santa's Christmas Journey — a hand-crafted 2D Christmas platformer for web, Android, iOS and desktop.",
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "art": "node scripts/generate-art.mjs",
+    "assets": "npm run art && node scripts/build-assets.mjs",
+    "levels": "node scripts/generate-levels.mjs",
+    "validate:levels": "node scripts/validate-levels.mjs",
+    "predev": "npm run assets",
+    "dev": "vite",
+    "prebuild": "npm run assets && npm run validate:levels",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "cap:sync": "npm run build && cap sync",
+    "android:add": "cap add android && npm run native:assets",
+    "android:sync": "npm run build && cap sync android",
+    "android:open": "cap open android",
+    "android:aab": "npm run build && cap sync android && npm run native:assets && cd android && ./gradlew bundleRelease",
+    "ios:add": "cap add ios && npm run native:assets",
+    "ios:sync": "npm run build && cap sync ios",
+    "ios:open": "cap open ios",
+    "desktop:dev": "npm run build && electron .",
+    "desktop:build": "npm run build && electron-builder",
+    "desktop:build:dir": "npm run build && electron-builder --dir",
+    "native:assets": "node scripts/build-native-assets.mjs",
+    "android:apk": "npm run build && cap sync android && npm run native:assets && cd android && ./gradlew assembleDebug",
+    "check": "npm run typecheck && npm test",
+    "smoke:electron": "npm run build && electron scripts/smoke-electron.cjs"
+  },
+  "dependencies": {
+    "@capacitor/core": "^6.2.2",
+    "@capacitor/preferences": "^6.0.3",
+    "phaser": "^3.90.0"
+  },
+  "devDependencies": {
+    "@capacitor/android": "^6.2.2",
+    "@capacitor/cli": "^6.2.2",
+    "@capacitor/ios": "^6.2.2",
+    "@types/node": "^22.10.0",
+    "electron": "^33.2.0",
+    "electron-builder": "^25.1.8",
+    "sharp": "^0.33.5",
+    "typescript": "^5.9.3",
+    "vite": "^7.3.7",
+    "vitest": "^3.2.4"
+  },
+  "build": {
+    "appId": "com.christmasjourney.santa",
+    "productName": "Santa's Christmas Journey",
+    "directories": {
+      "output": "release",
+      "buildResources": "build"
+    },
+    "files": [
+      "dist/**/*",
+      "electron/**/*",
+      "package.json"
+    ],
+    "extraMetadata": {
+      "main": "electron/main.cjs"
+    },
+    "mac": {
+      "target": [
+        "dmg",
+        "zip"
+      ],
+      "category": "public.app-category.games",
+      "icon": "build/icon.icns"
+    },
+    "win": {
+      "target": [
+        "nsis",
+        "portable"
+      ],
+      "icon": "build/icon.png"
+    },
+    "linux": {
+      "target": [
+        "AppImage",
+        "deb"
+      ],
+      "category": "Game",
+      "icon": "build/icon.png"
+    }
+  },
+  "main": "electron/main.cjs",
+  "author": "Santa's Christmas Journey contributors"
+}

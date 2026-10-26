@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Santa\'s Christmas Journey</string>
+    <string name="title_activity_main">Santa\'s Christmas Journey</string>
+    <string name="package_name">com.christmasjourney.santa</string>
+    <string name="custom_url_scheme">com.christmasjourney.santa</string>
+</resources>

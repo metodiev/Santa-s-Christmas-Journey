@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 40 40" fill="none"><defs>
+    <radialGradient id="spirit-bg" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffd166" stop-opacity="0.5"/><stop offset="1" stop-color="#ffd166" stop-opacity="0"/></radialGradient>
+    <filter id="spirit-glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+    <g>
+      <circle cx="20" cy="20" r="19" fill="url(#spirit-bg)"/>
+      <circle cx="20" cy="20" r="16" fill="none" stroke="#ffd166" stroke-width="1.2" opacity="0.6"/>
+      <path d="M24,20 L35,20 M29,20 L32.07,23.16 M29,20 L32.07,16.84" stroke="#fff7d6" stroke-width="1.8" stroke-linecap="round"/><path d="M22,23.46 L27.5,32.99 M24.5,27.79 L23.3,32.03 M24.5,27.79 L28.77,28.87" stroke="#fff7d6" stroke-width="1.8" stroke-linecap="round"/><path d="M18,23.46 L12.5,32.99 M15.5,27.79 L11.23,28.87 M15.5,27.79 L16.7,32.03" stroke="#fff7d6" stroke-width="1.8" stroke-linecap="round"/><path d="M16,20 L5,20 M11,20 L7.93,16.84 M11,20 L7.93,23.16" stroke="#fff7d6" stroke-width="1.8" stroke-linecap="round"/><path d="M18,16.54 L12.5,7.01 M15.5,12.21 L16.7,7.97 M15.5,12.21 L11.23,11.13" stroke="#fff7d6" stroke-width="1.8" stroke-linecap="round"/><path d="M22,16.54 L27.5,7.01 M24.5,12.21 L28.77,11.13 M24.5,12.21 L23.3,7.97" stroke="#fff7d6" stroke-width="1.8" stroke-linecap="round"/>
+      <circle cx="20" cy="20" r="3" fill="#ffffff"/>
+    </g></svg>

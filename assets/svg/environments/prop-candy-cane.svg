@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="400" viewBox="0 0 80 200" fill="none"><defs><filter id="cc-fur" x="-15%" y="-15%" width="130%" height="130%" color-interpolation-filters="sRGB"><feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="3" seed="8" result="noise"/><feDisplacementMap in="SourceGraphic" in2="noise" scale="0.8" xChannelSelector="R" yChannelSelector="G"/></filter></defs>
+    <g>
+      <ellipse cx="34" cy="190" rx="30" ry="7" fill="#000" opacity="0.2"/>
+      <path d="M2,194 Q2,180.8 14.4,176.4 Q8.2,166.48 14.4,172.42 Q20.6,171.45 26.8,174.11 Q33,167.8 39.2,173.31 Q45.4,168.53 51.6,172.99 Q64,179.7 64,194 Z" fill="#f4fbff"/>
+      <path d="M34,182 L34,50 C34,22 64,18 74,38 C80,50 74,64 62,68" stroke="#f7f2ea" stroke-width="17" stroke-linecap="round" fill="none"/>
+      <path d="M34,182 L34,50 C34,22 64,18 74,38 C80,50 74,64 62,68" stroke="#cf3a46" stroke-width="17" stroke-linecap="round" fill="none" stroke-dasharray="18 18" stroke-dashoffset="4"/>
+      <path d="M34,182 L34,50 C34,22 64,18 74,38 C80,50 74,64 62,68" stroke="#ffffff" stroke-width="5" stroke-linecap="round" fill="none" stroke-dasharray="9 27" stroke-dashoffset="13" opacity="0.55"/>
+      <path d="M27,170 L27,54" stroke="#ffffff" stroke-width="2" opacity="0.4"/>
+      <path d="M34,178 L34,50" stroke="#9e2834" stroke-width="1" opacity="0.3"/>
+      <circle cx="62" cy="68" r="8" fill="#f7f2ea"/>
+      <circle cx="62" cy="68" r="4" fill="#cf3a46" opacity="0.5"/>
+    </g></svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="220" viewBox="0 0 90 110" fill="none"><defs><linearGradient id="sign-wood" x1="0" y1="0" x2="0.3" y2="1"><stop offset="0" stop-color="#8a6141" stop-opacity="1"/><stop offset="1" stop-color="#5c3e27" stop-opacity="1"/></linearGradient></defs>
+    <g>
+      <ellipse cx="45" cy="108" rx="24" ry="5" fill="#000" opacity="0.2"/>
+      <path d="M10,110 Q10,101.6 24,98.8 Q17,93.21 24,96.05 Q31,91.91 38,96.73 Q45,94.78 52,97.31 Q59,94.03 66,96.28 Q80,100.9 80,110 Z" fill="#edf7ff"/>
+      <path d="M30,102 L30,40 L60,40 L60,102" stroke="#6b4a35" stroke-width="6" fill="none"/>
+      <rect x="6" y="18" width="78" height="48" rx="4" fill="url(#sign-wood)" stroke="#6b4a35" stroke-width="3"/>
+      <path d="M12,26 C30,22 56,28 78,24" stroke="#ffffff" stroke-width="1" opacity="0.2" fill="none"/>
+      <path d="M10,18 L80,18 L78,10 L12,10 Z" fill="#fcfdff"/>
+      <path d="M12,12 C28,8 58,14 78,11" stroke="#cfe4f3" stroke-width="0.7" opacity="0.6" fill="none"/>
+      <path d="M16,34 L74,34 M16,44 L68,44 M16,54 L60,54" stroke="#6b4a35" stroke-width="1.2" opacity="0.3"/>
+    </g></svg>

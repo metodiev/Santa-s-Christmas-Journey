@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="288" height="288" viewBox="0 0 144 144" fill="none"><defs>
+    <linearGradient id="gl-ice" x1="0.2" y1="0" x2="0.8" y2="1"><stop offset="0" stop-color="#f2feff" stop-opacity="1"/><stop offset="0.3" stop-color="#c8f0ff" stop-opacity="1"/><stop offset="0.65" stop-color="#7fcfe9" stop-opacity="1"/><stop offset="1" stop-color="#4a9fbe" stop-opacity="1"/></linearGradient>
+    <radialGradient id="gl-core" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="1"/><stop offset="0.35" stop-color="#a6f6ff" stop-opacity="1"/><stop offset="1" stop-color="#31c4ec" stop-opacity="0"/></radialGradient>
+    <filter id="gl-glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="gl-fur" x="-15%" y="-15%" width="130%" height="130%" color-interpolation-filters="sRGB"><feTurbulence type="fractalNoise" baseFrequency="0.4" numOctaves="3" seed="10" result="noise"/><feDisplacementMap in="SourceGraphic" in2="noise" scale="0.6" xChannelSelector="R" yChannelSelector="G"/></filter>
+  </defs>
+    <g transform="translate(0,-1.4)">
+      <circle cx="75.65" cy="143.81" r="1.28" fill="#dff6ff" opacity="0.35"/><circle cx="64.1" cy="145.1" r="1.4" fill="#dff6ff" opacity="0.61"/><circle cx="70.4" cy="142.04" r="1.46" fill="#dff6ff" opacity="0.48"/><circle cx="70.29" cy="143.55" r="2.21" fill="#dff6ff" opacity="0.54"/><circle cx="56.9" cy="143.95" r="1.56" fill="#dff6ff" opacity="0.58"/><circle cx="55.27" cy="145.11" r="1.79" fill="#dff6ff" opacity="0.42"/><circle cx="75.67" cy="144.56" r="1.96" fill="#dff6ff" opacity="0.34"/>
+      <g transform="translate(50,118) rotate(-8)">
+        <path d="M-9,-2 C-15,18 -17,34 -14,48 C-11,56 -4,55 -1,47 C1,32 4,16 8,2 Z" fill="url(#gl-ice)"/>
+        <path d="M-12,8 L-9,5 L-7,12 L-4,8" stroke="#e8fbff" stroke-width="1" opacity="0.7"/>
+      </g>
+      <g transform="translate(96,114) rotate(8)">
+        <path d="M9,-2 C15,18 17,34 14,48 C11,56 4,55 1,47 C-1,32 -4,16 -8,2 Z" fill="url(#gl-ice)"/>
+      </g>
+      <path d="M40,44 C28,54 24,72 28,92 C30,110 38,122 50,128 L72,128 C86,120 94,108 96,90 C98,70 92,52 78,42 C66,34 52,34 40,44 Z" fill="url(#gl-ice)"/>
+      <path d="M36,48 L26,32 L42,38 Z" fill="#d9f6ff"/>
+      <path d="M84,44 L94,26 L76,34 Z" fill="#c7efff"/>
+      <path d="M62,22 L70,6 L78,26 Z" fill="#e4faff"/>
+      <path d="M44,120 L36,134 L52,128 Z" fill="#bfeaff"/>
+      <path d="M78,122 L88,136 L70,130 Z" fill="#bfeaff"/>
+      <path d="M42,48 C38,68 40,88 48,103 C52,110 58,114 64,114 C73,112 80,104 83,92 C86,74 82,58 76,48 C66,42 52,42 42,48 Z" fill="#7fd5ef" opacity="0.5"/>
+      <path d="M46.07,46.33 l5.81,13.43 l4.05,-13.69 Z" fill="#bfeaff" opacity="0.41"/><path d="M114.88,55.62 l6.48,8.11 l5.16,-13.42 Z" fill="#bfeaff" opacity="0.73"/><path d="M24.22,53.08 l5.11,13.08 l6.95,-8.5 Z" fill="#bfeaff" opacity="0.53"/><path d="M68.44,20.6 l4.64,16.82 l5.65,-12.01 Z" fill="#bfeaff" opacity="0.73"/><path d="M49.18,48.51 l4.75,12.71 l5.58,-6.55 Z" fill="#bfeaff" opacity="0.57"/><path d="M85.25,41.33 l3.48,10.79 l3.56,-12.02 Z" fill="#bfeaff" opacity="0.73"/><path d="M87.15,44.58 l6.79,15.4 l6.17,-7.17 Z" fill="#bfeaff" opacity="0.53"/><path d="M51.74,55.59 l6.63,19.81 l4.81,-9.32 Z" fill="#bfeaff" opacity="0.67"/><path d="M45.04,43.26 l4.03,11.85 l4.04,-10.89 Z" fill="#bfeaff" opacity="0.7"/>
+      <ellipse cx="64" cy="80" rx="12" ry="14" fill="url(#gl-core)" filter="url(#gl-glow)"/>
+      <ellipse cx="64" cy="80" rx="6" ry="8" fill="#ffffff" opacity="0.85"/>
+      <path d="M46,64 C50,70 52,78 51,86 M82,62 C79,70 78,78 80,86" stroke="#e8fbff" stroke-width="0.8" opacity="0.6" fill="none"/>
+      <path d="M40,104 C48,110 56,112 64,112 C72,112 80,110 88,104" stroke="#ffffff" stroke-width="0.8" opacity="0.35" fill="none"/>
+      <path d="M55,36 C58,30 70,30 74,36 C68,33 62,33 55,36 Z" fill="#ffffff" opacity="0.65"/>
+      <g transform="translate(72,44)">
+        <circle cx="0" cy="0" r="2.2" fill="#e7ffff"/>
+        <circle cx="0" cy="0" r="1.2" fill="#48e1ff"/>
+      </g>
+      <path d="M30,124 C46,130 82,130 98,122" stroke="#b9e8f8" stroke-width="1" opacity="0.4" fill="none"/>
+    </g></svg>

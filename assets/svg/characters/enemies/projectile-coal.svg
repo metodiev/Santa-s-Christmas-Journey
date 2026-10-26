@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 32 32" fill="none"><defs>
+    <linearGradient id="co-grad" x1="0.2" y1="0" x2="0.8" y2="1"><stop offset="0" stop-color="#5a5a66" stop-opacity="1"/><stop offset="0.5" stop-color="#2c2b33" stop-opacity="1"/><stop offset="1" stop-color="#111014" stop-opacity="1"/></linearGradient>
+  </defs>
+    <path d="M8,6 L20,2 L28,9 L26,20 L16,26 L5,18 L4,10 Z" fill="url(#co-grad)"/>
+    <path d="M9,8 L18,5 L23,10 M8,15 L13,12 L18,16" stroke="#9a9aa8" stroke-width="0.8" opacity="0.5" fill="none"/>
+    <path d="M14,26 L13,30 M22,22 L26,25" stroke="#ff8c5a" stroke-width="1.2" opacity="0.7" stroke-linecap="round"/>
+  </svg>

@@ -1,0 +1,13 @@
+{
+  "id": "workshop",
+  "title": "The Workshop Waltz (original)",
+  "bpm": 132,
+  "beatsPerBar": 4,
+  "melody": "A4/1 E5/1 A4/1 C5/1 E5/2 D5/1 C5/1 B4/1 D5/1 B4/1 G4/1 D5/2 C5/1 B4/1 C5/1 E5/1 C5/1 A4/1 E5/2 G5/1 F5/1 E5/1 D5/1 C5/1 B4/1 A4/2 C5/1 B4/1 A4/1 E5/1 A4/1 C5/1 E5/2 D5/1 C5/1 B4/1 D5/1 G5/2 F5/1 E5/1 F5/1 A5/1 F5/1 D5/1 B4/2 G4/1 A4/1 B4/1 D5/1 C5/1 B4/1 A4/2 C5/1 B4/1 A4/4 E4/4 A4/4",
+  "chords": ["Am", "Am", "F", "F", "C", "C", "G", "G", "Am", "Am", "F", "F", "E", "E", "Am", "E"],
+  "lead": "pluck",
+  "pad": "warm",
+  "bass": "walk",
+  "drums": "workshop",
+  "gain": 0.72
+}

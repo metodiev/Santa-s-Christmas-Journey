@@ -1,0 +1,305 @@
+{
+  "files": [
+    {
+      "file": "assets/generated/backgrounds/bg-factory-far.png",
+      "bytes": 54080
+    },
+    {
+      "file": "assets/generated/backgrounds/bg-factory-mid.png",
+      "bytes": 26125
+    },
+    {
+      "file": "assets/generated/backgrounds/bg-factory-near.png",
+      "bytes": 37079
+    },
+    {
+      "file": "assets/generated/backgrounds/bg-forest-far.png",
+      "bytes": 55418
+    },
+    {
+      "file": "assets/generated/backgrounds/bg-forest-mid.png",
+      "bytes": 111058
+    },
+    {
+      "file": "assets/generated/backgrounds/bg-forest-near.png",
+      "bytes": 36996
+    },
+    {
+      "file": "assets/generated/backgrounds/bg-ginger-far.png",
+      "bytes": 56465
+    },
+    {
+      "file": "assets/generated/backgrounds/bg-ginger-mid.png",
+      "bytes": 50501
+    },
+    {
+      "file": "assets/generated/backgrounds/bg-ginger-near.png",
+      "bytes": 37521
+    },
+    {
+      "file": "assets/generated/backgrounds/bg-pine-far.png",
+      "bytes": 56358
+    },
+    {
+      "file": "assets/generated/backgrounds/bg-pine-mid.png",
+      "bytes": 79628
+    },
+    {
+      "file": "assets/generated/backgrounds/bg-pine-near.png",
+      "bytes": 37271
+    },
+    {
+      "file": "assets/generated/backgrounds/bg-summit-far.png",
+      "bytes": 55591
+    },
+    {
+      "file": "assets/generated/backgrounds/bg-summit-mid.png",
+      "bytes": 65689
+    },
+    {
+      "file": "assets/generated/backgrounds/bg-summit-near.png",
+      "bytes": 37003
+    },
+    {
+      "file": "assets/generated/enemies.json",
+      "bytes": 7510
+    },
+    {
+      "file": "assets/generated/enemies.png",
+      "bytes": 600854
+    },
+    {
+      "file": "assets/generated/houses/goal-tree.png",
+      "bytes": 89204
+    },
+    {
+      "file": "assets/generated/houses/house-factory-0.png",
+      "bytes": 85786
+    },
+    {
+      "file": "assets/generated/houses/house-factory-1.png",
+      "bytes": 85843
+    },
+    {
+      "file": "assets/generated/houses/house-factory-2.png",
+      "bytes": 86087
+    },
+    {
+      "file": "assets/generated/houses/house-forest-0.png",
+      "bytes": 85249
+    },
+    {
+      "file": "assets/generated/houses/house-forest-1.png",
+      "bytes": 85425
+    },
+    {
+      "file": "assets/generated/houses/house-forest-2.png",
+      "bytes": 84642
+    },
+    {
+      "file": "assets/generated/houses/house-ginger-0.png",
+      "bytes": 86904
+    },
+    {
+      "file": "assets/generated/houses/house-ginger-1.png",
+      "bytes": 87322
+    },
+    {
+      "file": "assets/generated/houses/house-ginger-2.png",
+      "bytes": 86035
+    },
+    {
+      "file": "assets/generated/houses/house-pine-0.png",
+      "bytes": 86488
+    },
+    {
+      "file": "assets/generated/houses/house-pine-1.png",
+      "bytes": 87412
+    },
+    {
+      "file": "assets/generated/houses/house-pine-2.png",
+      "bytes": 87146
+    },
+    {
+      "file": "assets/generated/houses/house-summit-0.png",
+      "bytes": 86392
+    },
+    {
+      "file": "assets/generated/houses/house-summit-1.png",
+      "bytes": 86772
+    },
+    {
+      "file": "assets/generated/houses/house-summit-2.png",
+      "bytes": 86171
+    },
+    {
+      "file": "assets/generated/props.json",
+      "bytes": 7275
+    },
+    {
+      "file": "assets/generated/props.png",
+      "bytes": 418913
+    },
+    {
+      "file": "assets/generated/santa.json",
+      "bytes": 5421
+    },
+    {
+      "file": "assets/generated/santa.png",
+      "bytes": 1144684
+    },
+    {
+      "file": "assets/generated/tiles/tile-factory-alt-fill.png",
+      "bytes": 1854
+    },
+    {
+      "file": "assets/generated/tiles/tile-factory-alt-top.png",
+      "bytes": 5359
+    },
+    {
+      "file": "assets/generated/tiles/tile-factory-block.png",
+      "bytes": 3630
+    },
+    {
+      "file": "assets/generated/tiles/tile-factory-fill.png",
+      "bytes": 3721
+    },
+    {
+      "file": "assets/generated/tiles/tile-factory-platform.png",
+      "bytes": 1783
+    },
+    {
+      "file": "assets/generated/tiles/tile-factory-top.png",
+      "bytes": 3284
+    },
+    {
+      "file": "assets/generated/tiles/tile-forest-alt-fill.png",
+      "bytes": 3742
+    },
+    {
+      "file": "assets/generated/tiles/tile-forest-alt-top.png",
+      "bytes": 3929
+    },
+    {
+      "file": "assets/generated/tiles/tile-forest-block.png",
+      "bytes": 4269
+    },
+    {
+      "file": "assets/generated/tiles/tile-forest-fill.png",
+      "bytes": 3937
+    },
+    {
+      "file": "assets/generated/tiles/tile-forest-platform.png",
+      "bytes": 1972
+    },
+    {
+      "file": "assets/generated/tiles/tile-forest-top.png",
+      "bytes": 3286
+    },
+    {
+      "file": "assets/generated/tiles/tile-ginger-alt-fill.png",
+      "bytes": 3244
+    },
+    {
+      "file": "assets/generated/tiles/tile-ginger-alt-top.png",
+      "bytes": 4451
+    },
+    {
+      "file": "assets/generated/tiles/tile-ginger-block.png",
+      "bytes": 3838
+    },
+    {
+      "file": "assets/generated/tiles/tile-ginger-fill.png",
+      "bytes": 3523
+    },
+    {
+      "file": "assets/generated/tiles/tile-ginger-platform.png",
+      "bytes": 2049
+    },
+    {
+      "file": "assets/generated/tiles/tile-ginger-top.png",
+      "bytes": 3184
+    },
+    {
+      "file": "assets/generated/tiles/tile-pine-alt-fill.png",
+      "bytes": 3325
+    },
+    {
+      "file": "assets/generated/tiles/tile-pine-alt-top.png",
+      "bytes": 3604
+    },
+    {
+      "file": "assets/generated/tiles/tile-pine-block.png",
+      "bytes": 4178
+    },
+    {
+      "file": "assets/generated/tiles/tile-pine-fill.png",
+      "bytes": 3423
+    },
+    {
+      "file": "assets/generated/tiles/tile-pine-platform.png",
+      "bytes": 1757
+    },
+    {
+      "file": "assets/generated/tiles/tile-pine-top.png",
+      "bytes": 2834
+    },
+    {
+      "file": "assets/generated/tiles/tile-summit-alt-fill.png",
+      "bytes": 3672
+    },
+    {
+      "file": "assets/generated/tiles/tile-summit-alt-top.png",
+      "bytes": 3727
+    },
+    {
+      "file": "assets/generated/tiles/tile-summit-block.png",
+      "bytes": 4096
+    },
+    {
+      "file": "assets/generated/tiles/tile-summit-fill.png",
+      "bytes": 4123
+    },
+    {
+      "file": "assets/generated/tiles/tile-summit-platform.png",
+      "bytes": 1748
+    },
+    {
+      "file": "assets/generated/tiles/tile-summit-top.png",
+      "bytes": 2821
+    },
+    {
+      "file": "assets/generated/ui.json",
+      "bytes": 6460
+    },
+    {
+      "file": "assets/generated/ui.png",
+      "bytes": 207623
+    },
+    {
+      "file": "icons/apple-touch-icon.png",
+      "bytes": 21245
+    },
+    {
+      "file": "icons/favicon-64.png",
+      "bytes": 5600
+    },
+    {
+      "file": "icons/icon-1024.png",
+      "bytes": 167384
+    },
+    {
+      "file": "icons/icon-192.png",
+      "bytes": 22993
+    },
+    {
+      "file": "icons/icon-512.png",
+      "bytes": 72890
+    },
+    {
+      "file": "icons/maskable-512.png",
+      "bytes": 72890
+    }
+  ],
+  "totalBytes": 5041766
+}

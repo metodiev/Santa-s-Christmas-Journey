@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="220" viewBox="0 0 110 110" fill="none"><defs><radialGradient id="boulder-grad" cx="0.35" cy="0.3" r="0.8"><stop offset="0" stop-color="#ffffff" stop-opacity="1"/><stop offset="0.5" stop-color="#e7f6ff" stop-opacity="1"/><stop offset="1" stop-color="#a8cbe0" stop-opacity="1"/></radialGradient></defs>
+    <g>
+      <circle cx="97" cy="55" r="14.22" fill="#e8f6ff" opacity="0.9"/><circle cx="88.98" cy="78.51" r="10.85" fill="#e8f6ff" opacity="0.9"/><circle cx="67.98" cy="93.04" r="12.95" fill="#e8f6ff" opacity="0.9"/><circle cx="42.02" cy="93.04" r="13.99" fill="#e8f6ff" opacity="0.9"/><circle cx="21.02" cy="78.51" r="12.83" fill="#e8f6ff" opacity="0.9"/><circle cx="13" cy="55" r="14.83" fill="#e8f6ff" opacity="0.9"/><circle cx="21.02" cy="31.49" r="7.27" fill="#e8f6ff" opacity="0.9"/><circle cx="42.02" cy="16.96" r="9.55" fill="#e8f6ff" opacity="0.9"/><circle cx="67.98" cy="16.96" r="14.15" fill="#e8f6ff" opacity="0.9"/><circle cx="88.98" cy="31.49" r="14.99" fill="#e8f6ff" opacity="0.9"/>
+      <circle cx="55" cy="55" r="46" fill="url(#boulder-grad)"/>
+      <path d="M20,30 C30,16 48,10 62,14 C48,22 38,32 32,46 C28,56 30,68 38,78 C24,70 18,52 20,30 Z" fill="#ffffff" opacity="0.4"/>
+      <path d="M36,38 L48,48 L44,62 L58,70 M64,22 L58,34 L70,40" stroke="#7fa9c2" stroke-width="1.2" opacity="0.5" fill="none"/>
+      <path d="M26,64 C36,72 48,76 62,76" stroke="#ffffff" stroke-width="1.4" opacity="0.4" fill="none"/>
+    </g></svg>

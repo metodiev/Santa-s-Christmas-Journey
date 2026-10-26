@@ -1,0 +1,1650 @@
+[
+  {
+    "group": "santa",
+    "dir": "characters/santa",
+    "name": "santa-idle-0",
+    "width": 128,
+    "height": 160,
+    "scale": 2
+  },
+  {
+    "group": "santa",
+    "dir": "characters/santa",
+    "name": "santa-idle-1",
+    "width": 128,
+    "height": 160,
+    "scale": 2
+  },
+  {
+    "group": "santa",
+    "dir": "characters/santa",
+    "name": "santa-idle-2",
+    "width": 128,
+    "height": 160,
+    "scale": 2
+  },
+  {
+    "group": "santa",
+    "dir": "characters/santa",
+    "name": "santa-idle-3",
+    "width": 128,
+    "height": 160,
+    "scale": 2
+  },
+  {
+    "group": "santa",
+    "dir": "characters/santa",
+    "name": "santa-walk-0",
+    "width": 128,
+    "height": 160,
+    "scale": 2
+  },
+  {
+    "group": "santa",
+    "dir": "characters/santa",
+    "name": "santa-walk-1",
+    "width": 128,
+    "height": 160,
+    "scale": 2
+  },
+  {
+    "group": "santa",
+    "dir": "characters/santa",
+    "name": "santa-walk-2",
+    "width": 128,
+    "height": 160,
+    "scale": 2
+  },
+  {
+    "group": "santa",
+    "dir": "characters/santa",
+    "name": "santa-walk-3",
+    "width": 128,
+    "height": 160,
+    "scale": 2
+  },
+  {
+    "group": "santa",
+    "dir": "characters/santa",
+    "name": "santa-walk-4",
+    "width": 128,
+    "height": 160,
+    "scale": 2
+  },
+  {
+    "group": "santa",
+    "dir": "characters/santa",
+    "name": "santa-walk-5",
+    "width": 128,
+    "height": 160,
+    "scale": 2
+  },
+  {
+    "group": "santa",
+    "dir": "characters/santa",
+    "name": "santa-walk-6",
+    "width": 128,
+    "height": 160,
+    "scale": 2
+  },
+  {
+    "group": "santa",
+    "dir": "characters/santa",
+    "name": "santa-walk-7",
+    "width": 128,
+    "height": 160,
+    "scale": 2
+  },
+  {
+    "group": "santa",
+    "dir": "characters/santa",
+    "name": "santa-run-0",
+    "width": 128,
+    "height": 160,
+    "scale": 2
+  },
+  {
+    "group": "santa",
+    "dir": "characters/santa",
+    "name": "santa-run-1",
+    "width": 128,
+    "height": 160,
+    "scale": 2
+  },
+  {
+    "group": "santa",
+    "dir": "characters/santa",
+    "name": "santa-run-2",
+    "width": 128,
+    "height": 160,
+    "scale": 2
+  },
+  {
+    "group": "santa",
+    "dir": "characters/santa",
+    "name": "santa-run-3",
+    "width": 128,
+    "height": 160,
+    "scale": 2
+  },
+  {
+    "group": "santa",
+    "dir": "characters/santa",
+    "name": "santa-run-4",
+    "width": 128,
+    "height": 160,
+    "scale": 2
+  },
+  {
+    "group": "santa",
+    "dir": "characters/santa",
+    "name": "santa-run-5",
+    "width": 128,
+    "height": 160,
+    "scale": 2
+  },
+  {
+    "group": "santa",
+    "dir": "characters/santa",
+    "name": "santa-run-6",
+    "width": 128,
+    "height": 160,
+    "scale": 2
+  },
+  {
+    "group": "santa",
+    "dir": "characters/santa",
+    "name": "santa-run-7",
+    "width": 128,
+    "height": 160,
+    "scale": 2
+  },
+  {
+    "group": "santa",
+    "dir": "characters/santa",
+    "name": "santa-jump",
+    "width": 128,
+    "height": 160,
+    "scale": 2
+  },
+  {
+    "group": "santa",
+    "dir": "characters/santa",
+    "name": "santa-fall",
+    "width": 128,
+    "height": 160,
+    "scale": 2
+  },
+  {
+    "group": "santa",
+    "dir": "characters/santa",
+    "name": "santa-slide",
+    "width": 128,
+    "height": 160,
+    "scale": 2
+  },
+  {
+    "group": "santa",
+    "dir": "characters/santa",
+    "name": "santa-hurt",
+    "width": 128,
+    "height": 160,
+    "scale": 2
+  },
+  {
+    "group": "santa",
+    "dir": "characters/santa",
+    "name": "santa-victory",
+    "width": 128,
+    "height": 160,
+    "scale": 2
+  },
+  {
+    "group": "santa",
+    "dir": "characters/santa",
+    "name": "santa-throw-0",
+    "width": 128,
+    "height": 160,
+    "scale": 2
+  },
+  {
+    "group": "santa",
+    "dir": "characters/santa",
+    "name": "santa-throw-1",
+    "width": 128,
+    "height": 160,
+    "scale": 2
+  },
+  {
+    "group": "santa",
+    "dir": "characters/santa",
+    "name": "santa-throw-2",
+    "width": 128,
+    "height": 160,
+    "scale": 2
+  },
+  {
+    "group": "santa",
+    "dir": "characters/santa",
+    "name": "santa-sleigh",
+    "width": 128,
+    "height": 160,
+    "scale": 2
+  },
+  {
+    "group": "enemies",
+    "dir": "characters/enemies",
+    "name": "penguin-0",
+    "width": 96,
+    "height": 96,
+    "scale": 2
+  },
+  {
+    "group": "enemies",
+    "dir": "characters/enemies",
+    "name": "penguin-1",
+    "width": 96,
+    "height": 96,
+    "scale": 2
+  },
+  {
+    "group": "enemies",
+    "dir": "characters/enemies",
+    "name": "snowball-0",
+    "width": 80,
+    "height": 80,
+    "scale": 2
+  },
+  {
+    "group": "enemies",
+    "dir": "characters/enemies",
+    "name": "snowball-1",
+    "width": 80,
+    "height": 80,
+    "scale": 2
+  },
+  {
+    "group": "enemies",
+    "dir": "characters/enemies",
+    "name": "snowball-2",
+    "width": 80,
+    "height": 80,
+    "scale": 2
+  },
+  {
+    "group": "enemies",
+    "dir": "characters/enemies",
+    "name": "snowball-3",
+    "width": 80,
+    "height": 80,
+    "scale": 2
+  },
+  {
+    "group": "enemies",
+    "dir": "characters/enemies",
+    "name": "gingerbread-0",
+    "width": 96,
+    "height": 96,
+    "scale": 2
+  },
+  {
+    "group": "enemies",
+    "dir": "characters/enemies",
+    "name": "gingerbread-1",
+    "width": 96,
+    "height": 96,
+    "scale": 2
+  },
+  {
+    "group": "enemies",
+    "dir": "characters/enemies",
+    "name": "gingerbread-2",
+    "width": 96,
+    "height": 96,
+    "scale": 2
+  },
+  {
+    "group": "enemies",
+    "dir": "characters/enemies",
+    "name": "gingerbread-3",
+    "width": 96,
+    "height": 96,
+    "scale": 2
+  },
+  {
+    "group": "enemies",
+    "dir": "characters/enemies",
+    "name": "gumdrop-0",
+    "width": 96,
+    "height": 80,
+    "scale": 2
+  },
+  {
+    "group": "enemies",
+    "dir": "characters/enemies",
+    "name": "gumdrop-1",
+    "width": 96,
+    "height": 80,
+    "scale": 2
+  },
+  {
+    "group": "enemies",
+    "dir": "characters/enemies",
+    "name": "gumdrop-2",
+    "width": 96,
+    "height": 80,
+    "scale": 2
+  },
+  {
+    "group": "enemies",
+    "dir": "characters/enemies",
+    "name": "robot-0",
+    "width": 104,
+    "height": 104,
+    "scale": 2
+  },
+  {
+    "group": "enemies",
+    "dir": "characters/enemies",
+    "name": "robot-1",
+    "width": 104,
+    "height": 104,
+    "scale": 2
+  },
+  {
+    "group": "enemies",
+    "dir": "characters/enemies",
+    "name": "robot-2",
+    "width": 104,
+    "height": 104,
+    "scale": 2
+  },
+  {
+    "group": "enemies",
+    "dir": "characters/enemies",
+    "name": "robot-3",
+    "width": 104,
+    "height": 104,
+    "scale": 2
+  },
+  {
+    "group": "enemies",
+    "dir": "characters/enemies",
+    "name": "soldier-0",
+    "width": 96,
+    "height": 104,
+    "scale": 2
+  },
+  {
+    "group": "enemies",
+    "dir": "characters/enemies",
+    "name": "soldier-1",
+    "width": 96,
+    "height": 104,
+    "scale": 2
+  },
+  {
+    "group": "enemies",
+    "dir": "characters/enemies",
+    "name": "soldier-2",
+    "width": 96,
+    "height": 104,
+    "scale": 2
+  },
+  {
+    "group": "enemies",
+    "dir": "characters/enemies",
+    "name": "soldier-3",
+    "width": 96,
+    "height": 104,
+    "scale": 2
+  },
+  {
+    "group": "enemies",
+    "dir": "characters/enemies",
+    "name": "wolf-0",
+    "width": 128,
+    "height": 96,
+    "scale": 2
+  },
+  {
+    "group": "enemies",
+    "dir": "characters/enemies",
+    "name": "wolf-1",
+    "width": 128,
+    "height": 96,
+    "scale": 2
+  },
+  {
+    "group": "enemies",
+    "dir": "characters/enemies",
+    "name": "wolf-2",
+    "width": 128,
+    "height": 96,
+    "scale": 2
+  },
+  {
+    "group": "enemies",
+    "dir": "characters/enemies",
+    "name": "wolf-3",
+    "width": 128,
+    "height": 96,
+    "scale": 2
+  },
+  {
+    "group": "enemies",
+    "dir": "characters/enemies",
+    "name": "owl-0",
+    "width": 96,
+    "height": 96,
+    "scale": 2
+  },
+  {
+    "group": "enemies",
+    "dir": "characters/enemies",
+    "name": "owl-1",
+    "width": 96,
+    "height": 96,
+    "scale": 2
+  },
+  {
+    "group": "enemies",
+    "dir": "characters/enemies",
+    "name": "golem-0",
+    "width": 144,
+    "height": 144,
+    "scale": 2
+  },
+  {
+    "group": "enemies",
+    "dir": "characters/enemies",
+    "name": "golem-1",
+    "width": 144,
+    "height": 144,
+    "scale": 2
+  },
+  {
+    "group": "enemies",
+    "dir": "characters/enemies",
+    "name": "golem-2",
+    "width": 144,
+    "height": 144,
+    "scale": 2
+  },
+  {
+    "group": "enemies",
+    "dir": "characters/enemies",
+    "name": "golem-3",
+    "width": 144,
+    "height": 144,
+    "scale": 2
+  },
+  {
+    "group": "enemies",
+    "dir": "characters/enemies",
+    "name": "krampus-0",
+    "width": 192,
+    "height": 192,
+    "scale": 2
+  },
+  {
+    "group": "enemies",
+    "dir": "characters/enemies",
+    "name": "krampus-1",
+    "width": 192,
+    "height": 192,
+    "scale": 2
+  },
+  {
+    "group": "enemies",
+    "dir": "characters/enemies",
+    "name": "krampus-2",
+    "width": 192,
+    "height": 192,
+    "scale": 2
+  },
+  {
+    "group": "enemies",
+    "dir": "characters/enemies",
+    "name": "krampus-3",
+    "width": 192,
+    "height": 192,
+    "scale": 2
+  },
+  {
+    "group": "enemies",
+    "dir": "characters/enemies",
+    "name": "projectile-coal",
+    "width": 32,
+    "height": 32,
+    "scale": 2
+  },
+  {
+    "group": "enemies",
+    "dir": "characters/enemies",
+    "name": "projectile-spark",
+    "width": 32,
+    "height": 32,
+    "scale": 2
+  },
+  {
+    "group": "enemies",
+    "dir": "characters/enemies",
+    "name": "projectile-shard",
+    "width": 32,
+    "height": 32,
+    "scale": 2
+  },
+  {
+    "group": "enemies",
+    "dir": "characters/enemies",
+    "name": "reindeer-0",
+    "width": 224,
+    "height": 200,
+    "scale": 2
+  },
+  {
+    "group": "enemies",
+    "dir": "characters/enemies",
+    "name": "reindeer-1",
+    "width": 224,
+    "height": 200,
+    "scale": 2
+  },
+  {
+    "group": "enemies",
+    "dir": "characters/enemies",
+    "name": "sleigh",
+    "width": 256,
+    "height": 184,
+    "scale": 2
+  },
+  {
+    "group": "houses",
+    "dir": "environments/houses",
+    "name": "house-pine-0",
+    "width": 320,
+    "height": 260,
+    "scale": 1.5
+  },
+  {
+    "group": "houses",
+    "dir": "environments/houses",
+    "name": "house-pine-1",
+    "width": 320,
+    "height": 260,
+    "scale": 1.5
+  },
+  {
+    "group": "houses",
+    "dir": "environments/houses",
+    "name": "house-pine-2",
+    "width": 320,
+    "height": 260,
+    "scale": 1.5
+  },
+  {
+    "group": "houses",
+    "dir": "environments/houses",
+    "name": "house-ginger-0",
+    "width": 320,
+    "height": 260,
+    "scale": 1.5
+  },
+  {
+    "group": "houses",
+    "dir": "environments/houses",
+    "name": "house-ginger-1",
+    "width": 320,
+    "height": 260,
+    "scale": 1.5
+  },
+  {
+    "group": "houses",
+    "dir": "environments/houses",
+    "name": "house-ginger-2",
+    "width": 320,
+    "height": 260,
+    "scale": 1.5
+  },
+  {
+    "group": "houses",
+    "dir": "environments/houses",
+    "name": "house-factory-0",
+    "width": 320,
+    "height": 260,
+    "scale": 1.5
+  },
+  {
+    "group": "houses",
+    "dir": "environments/houses",
+    "name": "house-factory-1",
+    "width": 320,
+    "height": 260,
+    "scale": 1.5
+  },
+  {
+    "group": "houses",
+    "dir": "environments/houses",
+    "name": "house-factory-2",
+    "width": 320,
+    "height": 260,
+    "scale": 1.5
+  },
+  {
+    "group": "houses",
+    "dir": "environments/houses",
+    "name": "house-forest-0",
+    "width": 320,
+    "height": 260,
+    "scale": 1.5
+  },
+  {
+    "group": "houses",
+    "dir": "environments/houses",
+    "name": "house-forest-1",
+    "width": 320,
+    "height": 260,
+    "scale": 1.5
+  },
+  {
+    "group": "houses",
+    "dir": "environments/houses",
+    "name": "house-forest-2",
+    "width": 320,
+    "height": 260,
+    "scale": 1.5
+  },
+  {
+    "group": "houses",
+    "dir": "environments/houses",
+    "name": "house-summit-0",
+    "width": 320,
+    "height": 260,
+    "scale": 1.5
+  },
+  {
+    "group": "houses",
+    "dir": "environments/houses",
+    "name": "house-summit-1",
+    "width": 320,
+    "height": 260,
+    "scale": 1.5
+  },
+  {
+    "group": "houses",
+    "dir": "environments/houses",
+    "name": "house-summit-2",
+    "width": 320,
+    "height": 260,
+    "scale": 1.5
+  },
+  {
+    "group": "houses",
+    "dir": "environments/houses",
+    "name": "goal-tree",
+    "width": 420,
+    "height": 520,
+    "scale": 1.5
+  },
+  {
+    "group": "props",
+    "dir": "environments",
+    "name": "tree-pine-pine-0",
+    "width": 150,
+    "height": 240,
+    "scale": 2
+  },
+  {
+    "group": "props",
+    "dir": "environments",
+    "name": "tree-pine-pine-1",
+    "width": 150,
+    "height": 240,
+    "scale": 2
+  },
+  {
+    "group": "props",
+    "dir": "environments",
+    "name": "tree-pine-ginger-0",
+    "width": 150,
+    "height": 240,
+    "scale": 2
+  },
+  {
+    "group": "props",
+    "dir": "environments",
+    "name": "tree-pine-ginger-1",
+    "width": 150,
+    "height": 240,
+    "scale": 2
+  },
+  {
+    "group": "props",
+    "dir": "environments",
+    "name": "tree-pine-factory-0",
+    "width": 150,
+    "height": 240,
+    "scale": 2
+  },
+  {
+    "group": "props",
+    "dir": "environments",
+    "name": "tree-pine-factory-1",
+    "width": 150,
+    "height": 240,
+    "scale": 2
+  },
+  {
+    "group": "props",
+    "dir": "environments",
+    "name": "tree-pine-forest-0",
+    "width": 150,
+    "height": 240,
+    "scale": 2
+  },
+  {
+    "group": "props",
+    "dir": "environments",
+    "name": "tree-pine-forest-1",
+    "width": 150,
+    "height": 240,
+    "scale": 2
+  },
+  {
+    "group": "props",
+    "dir": "environments",
+    "name": "tree-pine-summit-0",
+    "width": 150,
+    "height": 240,
+    "scale": 2
+  },
+  {
+    "group": "props",
+    "dir": "environments",
+    "name": "tree-pine-summit-1",
+    "width": 150,
+    "height": 240,
+    "scale": 2
+  },
+  {
+    "group": "props",
+    "dir": "environments",
+    "name": "prop-lamp",
+    "width": 68,
+    "height": 210,
+    "scale": 2
+  },
+  {
+    "group": "props",
+    "dir": "environments",
+    "name": "prop-candy-cane",
+    "width": 80,
+    "height": 200,
+    "scale": 2
+  },
+  {
+    "group": "props",
+    "dir": "environments",
+    "name": "prop-snowman",
+    "width": 100,
+    "height": 156,
+    "scale": 2
+  },
+  {
+    "group": "props",
+    "dir": "environments",
+    "name": "prop-gear",
+    "width": 120,
+    "height": 120,
+    "scale": 2
+  },
+  {
+    "group": "props",
+    "dir": "environments",
+    "name": "prop-icicle",
+    "width": 30,
+    "height": 84,
+    "scale": 2
+  },
+  {
+    "group": "props",
+    "dir": "environments",
+    "name": "prop-steam-vent",
+    "width": 90,
+    "height": 52,
+    "scale": 2
+  },
+  {
+    "group": "props",
+    "dir": "environments",
+    "name": "prop-spring-box",
+    "width": 84,
+    "height": 56,
+    "scale": 2
+  },
+  {
+    "group": "props",
+    "dir": "environments",
+    "name": "prop-train",
+    "width": 180,
+    "height": 90,
+    "scale": 2
+  },
+  {
+    "group": "props",
+    "dir": "environments",
+    "name": "prop-snow-boulder",
+    "width": 110,
+    "height": 110,
+    "scale": 2
+  },
+  {
+    "group": "props",
+    "dir": "environments",
+    "name": "prop-ice-spikes",
+    "width": 100,
+    "height": 44,
+    "scale": 2
+  },
+  {
+    "group": "props",
+    "dir": "environments",
+    "name": "prop-gum-puddle",
+    "width": 120,
+    "height": 40,
+    "scale": 2
+  },
+  {
+    "group": "props",
+    "dir": "environments",
+    "name": "prop-sign",
+    "width": 90,
+    "height": 110,
+    "scale": 2
+  },
+  {
+    "group": "props",
+    "dir": "environments",
+    "name": "prop-secret-arch",
+    "width": 180,
+    "height": 146,
+    "scale": 2
+  },
+  {
+    "group": "props",
+    "dir": "environments",
+    "name": "prop-checkpoint-off",
+    "width": 84,
+    "height": 180,
+    "scale": 2
+  },
+  {
+    "group": "props",
+    "dir": "environments",
+    "name": "prop-checkpoint-on",
+    "width": 84,
+    "height": 180,
+    "scale": 2
+  },
+  {
+    "group": "props",
+    "dir": "environments",
+    "name": "prop-gift-0",
+    "width": 44,
+    "height": 44,
+    "scale": 2
+  },
+  {
+    "group": "props",
+    "dir": "environments",
+    "name": "prop-gift-1",
+    "width": 44,
+    "height": 44,
+    "scale": 2
+  },
+  {
+    "group": "props",
+    "dir": "environments",
+    "name": "prop-gift-2",
+    "width": 44,
+    "height": 44,
+    "scale": 2
+  },
+  {
+    "group": "props",
+    "dir": "environments",
+    "name": "particle-snow",
+    "width": 24,
+    "height": 24,
+    "scale": 2
+  },
+  {
+    "group": "props",
+    "dir": "environments",
+    "name": "particle-spark",
+    "width": 24,
+    "height": 24,
+    "scale": 2
+  },
+  {
+    "group": "props",
+    "dir": "environments",
+    "name": "particle-dust",
+    "width": 24,
+    "height": 24,
+    "scale": 2
+  },
+  {
+    "group": "props",
+    "dir": "environments",
+    "name": "particle-star",
+    "width": 24,
+    "height": 24,
+    "scale": 2
+  },
+  {
+    "group": "props",
+    "dir": "environments",
+    "name": "particle-coal",
+    "width": 24,
+    "height": 24,
+    "scale": 2
+  },
+  {
+    "group": "props",
+    "dir": "environments",
+    "name": "particle-leaf",
+    "width": 24,
+    "height": 24,
+    "scale": 2
+  },
+  {
+    "group": "props",
+    "dir": "environments",
+    "name": "glow-soft",
+    "width": 128,
+    "height": 128,
+    "scale": 2
+  },
+  {
+    "group": "props",
+    "dir": "environments",
+    "name": "glow-small",
+    "width": 48,
+    "height": 48,
+    "scale": 2
+  },
+  {
+    "group": "props",
+    "dir": "environments",
+    "name": "prop-star",
+    "width": 48,
+    "height": 48,
+    "scale": 2
+  },
+  {
+    "group": "props",
+    "dir": "environments",
+    "name": "prop-snowflake",
+    "width": 40,
+    "height": 40,
+    "scale": 2
+  },
+  {
+    "group": "props",
+    "dir": "environments",
+    "name": "prop-bell",
+    "width": 60,
+    "height": 64,
+    "scale": 2
+  },
+  {
+    "group": "backgrounds",
+    "dir": "environments/backgrounds",
+    "name": "bg-pine-far",
+    "width": 1280,
+    "height": 480,
+    "scale": 1
+  },
+  {
+    "group": "backgrounds",
+    "dir": "environments/backgrounds",
+    "name": "bg-pine-mid",
+    "width": 1280,
+    "height": 480,
+    "scale": 1
+  },
+  {
+    "group": "backgrounds",
+    "dir": "environments/backgrounds",
+    "name": "bg-pine-near",
+    "width": 1280,
+    "height": 480,
+    "scale": 1
+  },
+  {
+    "group": "backgrounds",
+    "dir": "environments/backgrounds",
+    "name": "bg-ginger-far",
+    "width": 1280,
+    "height": 480,
+    "scale": 1
+  },
+  {
+    "group": "backgrounds",
+    "dir": "environments/backgrounds",
+    "name": "bg-ginger-mid",
+    "width": 1280,
+    "height": 480,
+    "scale": 1
+  },
+  {
+    "group": "backgrounds",
+    "dir": "environments/backgrounds",
+    "name": "bg-ginger-near",
+    "width": 1280,
+    "height": 480,
+    "scale": 1
+  },
+  {
+    "group": "backgrounds",
+    "dir": "environments/backgrounds",
+    "name": "bg-factory-far",
+    "width": 1280,
+    "height": 480,
+    "scale": 1
+  },
+  {
+    "group": "backgrounds",
+    "dir": "environments/backgrounds",
+    "name": "bg-factory-mid",
+    "width": 1280,
+    "height": 480,
+    "scale": 1
+  },
+  {
+    "group": "backgrounds",
+    "dir": "environments/backgrounds",
+    "name": "bg-factory-near",
+    "width": 1280,
+    "height": 480,
+    "scale": 1
+  },
+  {
+    "group": "backgrounds",
+    "dir": "environments/backgrounds",
+    "name": "bg-forest-far",
+    "width": 1280,
+    "height": 480,
+    "scale": 1
+  },
+  {
+    "group": "backgrounds",
+    "dir": "environments/backgrounds",
+    "name": "bg-forest-mid",
+    "width": 1280,
+    "height": 480,
+    "scale": 1
+  },
+  {
+    "group": "backgrounds",
+    "dir": "environments/backgrounds",
+    "name": "bg-forest-near",
+    "width": 1280,
+    "height": 480,
+    "scale": 1
+  },
+  {
+    "group": "backgrounds",
+    "dir": "environments/backgrounds",
+    "name": "bg-summit-far",
+    "width": 1280,
+    "height": 480,
+    "scale": 1
+  },
+  {
+    "group": "backgrounds",
+    "dir": "environments/backgrounds",
+    "name": "bg-summit-mid",
+    "width": 1280,
+    "height": 480,
+    "scale": 1
+  },
+  {
+    "group": "backgrounds",
+    "dir": "environments/backgrounds",
+    "name": "bg-summit-near",
+    "width": 1280,
+    "height": 480,
+    "scale": 1
+  },
+  {
+    "group": "tiles",
+    "dir": "environments/tiles",
+    "name": "tile-pine-top",
+    "width": 64,
+    "height": 24,
+    "scale": 2
+  },
+  {
+    "group": "tiles",
+    "dir": "environments/tiles",
+    "name": "tile-pine-fill",
+    "width": 64,
+    "height": 64,
+    "scale": 2
+  },
+  {
+    "group": "tiles",
+    "dir": "environments/tiles",
+    "name": "tile-pine-alt-top",
+    "width": 64,
+    "height": 24,
+    "scale": 2
+  },
+  {
+    "group": "tiles",
+    "dir": "environments/tiles",
+    "name": "tile-pine-alt-fill",
+    "width": 64,
+    "height": 64,
+    "scale": 2
+  },
+  {
+    "group": "tiles",
+    "dir": "environments/tiles",
+    "name": "tile-pine-platform",
+    "width": 64,
+    "height": 40,
+    "scale": 2
+  },
+  {
+    "group": "tiles",
+    "dir": "environments/tiles",
+    "name": "tile-pine-block",
+    "width": 64,
+    "height": 64,
+    "scale": 2
+  },
+  {
+    "group": "tiles",
+    "dir": "environments/tiles",
+    "name": "tile-ginger-top",
+    "width": 64,
+    "height": 24,
+    "scale": 2
+  },
+  {
+    "group": "tiles",
+    "dir": "environments/tiles",
+    "name": "tile-ginger-fill",
+    "width": 64,
+    "height": 64,
+    "scale": 2
+  },
+  {
+    "group": "tiles",
+    "dir": "environments/tiles",
+    "name": "tile-ginger-alt-top",
+    "width": 64,
+    "height": 24,
+    "scale": 2
+  },
+  {
+    "group": "tiles",
+    "dir": "environments/tiles",
+    "name": "tile-ginger-alt-fill",
+    "width": 64,
+    "height": 64,
+    "scale": 2
+  },
+  {
+    "group": "tiles",
+    "dir": "environments/tiles",
+    "name": "tile-ginger-platform",
+    "width": 64,
+    "height": 40,
+    "scale": 2
+  },
+  {
+    "group": "tiles",
+    "dir": "environments/tiles",
+    "name": "tile-ginger-block",
+    "width": 64,
+    "height": 64,
+    "scale": 2
+  },
+  {
+    "group": "tiles",
+    "dir": "environments/tiles",
+    "name": "tile-factory-top",
+    "width": 64,
+    "height": 24,
+    "scale": 2
+  },
+  {
+    "group": "tiles",
+    "dir": "environments/tiles",
+    "name": "tile-factory-fill",
+    "width": 64,
+    "height": 64,
+    "scale": 2
+  },
+  {
+    "group": "tiles",
+    "dir": "environments/tiles",
+    "name": "tile-factory-alt-top",
+    "width": 64,
+    "height": 24,
+    "scale": 2
+  },
+  {
+    "group": "tiles",
+    "dir": "environments/tiles",
+    "name": "tile-factory-alt-fill",
+    "width": 64,
+    "height": 64,
+    "scale": 2
+  },
+  {
+    "group": "tiles",
+    "dir": "environments/tiles",
+    "name": "tile-factory-platform",
+    "width": 64,
+    "height": 40,
+    "scale": 2
+  },
+  {
+    "group": "tiles",
+    "dir": "environments/tiles",
+    "name": "tile-factory-block",
+    "width": 64,
+    "height": 64,
+    "scale": 2
+  },
+  {
+    "group": "tiles",
+    "dir": "environments/tiles",
+    "name": "tile-forest-top",
+    "width": 64,
+    "height": 24,
+    "scale": 2
+  },
+  {
+    "group": "tiles",
+    "dir": "environments/tiles",
+    "name": "tile-forest-fill",
+    "width": 64,
+    "height": 64,
+    "scale": 2
+  },
+  {
+    "group": "tiles",
+    "dir": "environments/tiles",
+    "name": "tile-forest-alt-top",
+    "width": 64,
+    "height": 24,
+    "scale": 2
+  },
+  {
+    "group": "tiles",
+    "dir": "environments/tiles",
+    "name": "tile-forest-alt-fill",
+    "width": 64,
+    "height": 64,
+    "scale": 2
+  },
+  {
+    "group": "tiles",
+    "dir": "environments/tiles",
+    "name": "tile-forest-platform",
+    "width": 64,
+    "height": 40,
+    "scale": 2
+  },
+  {
+    "group": "tiles",
+    "dir": "environments/tiles",
+    "name": "tile-forest-block",
+    "width": 64,
+    "height": 64,
+    "scale": 2
+  },
+  {
+    "group": "tiles",
+    "dir": "environments/tiles",
+    "name": "tile-summit-top",
+    "width": 64,
+    "height": 24,
+    "scale": 2
+  },
+  {
+    "group": "tiles",
+    "dir": "environments/tiles",
+    "name": "tile-summit-fill",
+    "width": 64,
+    "height": 64,
+    "scale": 2
+  },
+  {
+    "group": "tiles",
+    "dir": "environments/tiles",
+    "name": "tile-summit-alt-top",
+    "width": 64,
+    "height": 24,
+    "scale": 2
+  },
+  {
+    "group": "tiles",
+    "dir": "environments/tiles",
+    "name": "tile-summit-alt-fill",
+    "width": 64,
+    "height": 64,
+    "scale": 2
+  },
+  {
+    "group": "tiles",
+    "dir": "environments/tiles",
+    "name": "tile-summit-platform",
+    "width": 64,
+    "height": 40,
+    "scale": 2
+  },
+  {
+    "group": "tiles",
+    "dir": "environments/tiles",
+    "name": "tile-summit-block",
+    "width": 64,
+    "height": 64,
+    "scale": 2
+  },
+  {
+    "group": "ui",
+    "dir": "ui",
+    "name": "panel",
+    "width": 96,
+    "height": 96,
+    "scale": 2
+  },
+  {
+    "group": "ui",
+    "dir": "ui",
+    "name": "panel-dark",
+    "width": 96,
+    "height": 96,
+    "scale": 2
+  },
+  {
+    "group": "ui",
+    "dir": "ui",
+    "name": "panel-light",
+    "width": 96,
+    "height": 96,
+    "scale": 2
+  },
+  {
+    "group": "ui",
+    "dir": "ui",
+    "name": "button",
+    "width": 120,
+    "height": 64,
+    "scale": 2
+  },
+  {
+    "group": "ui",
+    "dir": "ui",
+    "name": "button-hover",
+    "width": 120,
+    "height": 64,
+    "scale": 2
+  },
+  {
+    "group": "ui",
+    "dir": "ui",
+    "name": "button-pressed",
+    "width": 120,
+    "height": 64,
+    "scale": 2
+  },
+  {
+    "group": "ui",
+    "dir": "ui",
+    "name": "round-button",
+    "width": 96,
+    "height": 96,
+    "scale": 2
+  },
+  {
+    "group": "ui",
+    "dir": "ui",
+    "name": "round-button-hover",
+    "width": 96,
+    "height": 96,
+    "scale": 2
+  },
+  {
+    "group": "ui",
+    "dir": "ui",
+    "name": "ui-heart-full",
+    "width": 44,
+    "height": 40,
+    "scale": 2
+  },
+  {
+    "group": "ui",
+    "dir": "ui",
+    "name": "ui-heart-empty",
+    "width": 44,
+    "height": 40,
+    "scale": 2
+  },
+  {
+    "group": "ui",
+    "dir": "ui",
+    "name": "ui-heart-bonus",
+    "width": 44,
+    "height": 40,
+    "scale": 2
+  },
+  {
+    "group": "ui",
+    "dir": "ui",
+    "name": "ui-star-full",
+    "width": 40,
+    "height": 40,
+    "scale": 2
+  },
+  {
+    "group": "ui",
+    "dir": "ui",
+    "name": "ui-star-empty",
+    "width": 40,
+    "height": 40,
+    "scale": 2
+  },
+  {
+    "group": "ui",
+    "dir": "ui",
+    "name": "ui-gift",
+    "width": 40,
+    "height": 40,
+    "scale": 2
+  },
+  {
+    "group": "ui",
+    "dir": "ui",
+    "name": "ui-spirit",
+    "width": 40,
+    "height": 40,
+    "scale": 2
+  },
+  {
+    "group": "ui",
+    "dir": "ui",
+    "name": "ui-pause",
+    "width": 44,
+    "height": 44,
+    "scale": 2
+  },
+  {
+    "group": "ui",
+    "dir": "ui",
+    "name": "ui-play",
+    "width": 44,
+    "height": 44,
+    "scale": 2
+  },
+  {
+    "group": "ui",
+    "dir": "ui",
+    "name": "ui-arrow-left",
+    "width": 44,
+    "height": 44,
+    "scale": 2
+  },
+  {
+    "group": "ui",
+    "dir": "ui",
+    "name": "ui-arrow-right",
+    "width": 44,
+    "height": 44,
+    "scale": 2
+  },
+  {
+    "group": "ui",
+    "dir": "ui",
+    "name": "ui-jump",
+    "width": 44,
+    "height": 44,
+    "scale": 2
+  },
+  {
+    "group": "ui",
+    "dir": "ui",
+    "name": "ui-run",
+    "width": 44,
+    "height": 44,
+    "scale": 2
+  },
+  {
+    "group": "ui",
+    "dir": "ui",
+    "name": "ui-slide",
+    "width": 44,
+    "height": 44,
+    "scale": 2
+  },
+  {
+    "group": "ui",
+    "dir": "ui",
+    "name": "ui-lock",
+    "width": 44,
+    "height": 44,
+    "scale": 2
+  },
+  {
+    "group": "ui",
+    "dir": "ui",
+    "name": "ui-close",
+    "width": 44,
+    "height": 44,
+    "scale": 2
+  },
+  {
+    "group": "ui",
+    "dir": "ui",
+    "name": "ui-check",
+    "width": 44,
+    "height": 44,
+    "scale": 2
+  },
+  {
+    "group": "ui",
+    "dir": "ui",
+    "name": "ui-sound-on",
+    "width": 44,
+    "height": 44,
+    "scale": 2
+  },
+  {
+    "group": "ui",
+    "dir": "ui",
+    "name": "ui-sound-off",
+    "width": 44,
+    "height": 44,
+    "scale": 2
+  },
+  {
+    "group": "ui",
+    "dir": "ui",
+    "name": "ui-music",
+    "width": 44,
+    "height": 44,
+    "scale": 2
+  },
+  {
+    "group": "ui",
+    "dir": "ui",
+    "name": "ui-vibrate",
+    "width": 44,
+    "height": 44,
+    "scale": 2
+  },
+  {
+    "group": "ui",
+    "dir": "ui",
+    "name": "ui-settings",
+    "width": 44,
+    "height": 44,
+    "scale": 2
+  },
+  {
+    "group": "ui",
+    "dir": "ui",
+    "name": "ui-trophy",
+    "width": 44,
+    "height": 44,
+    "scale": 2
+  },
+  {
+    "group": "ui",
+    "dir": "ui",
+    "name": "ui-boot",
+    "width": 44,
+    "height": 44,
+    "scale": 2
+  },
+  {
+    "group": "ui",
+    "dir": "ui",
+    "name": "ui-clock",
+    "width": 44,
+    "height": 44,
+    "scale": 2
+  },
+  {
+    "group": "ui",
+    "dir": "ui",
+    "name": "ui-crown",
+    "width": 44,
+    "height": 44,
+    "scale": 2
+  },
+  {
+    "group": "ui",
+    "dir": "ui",
+    "name": "ui-profile",
+    "width": 44,
+    "height": 44,
+    "scale": 2
+  },
+  {
+    "group": "ui",
+    "dir": "ui",
+    "name": "ui-snowflake",
+    "width": 40,
+    "height": 40,
+    "scale": 2
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "id": "menu",
+  "title": "Deck the Halls (public domain, arr. generated)",
+  "bpm": 126,
+  "beatsPerBar": 4,
+  "melody": "G4/1 G4/1 G4/1 A4/1 G4/1 F4/1 E4/1 D4/1 C4/1 C4/1 D4/1 E4/1 F4/1 F4/1 G4/1 A4/1 G4/1 G4/1 G4/1 A4/1 G4/1 F4/1 E4/1 D4/1 C4/1 C4/1 E4/1 D4/1 D4/1 C4/1 C4/2 G4/1 G4/1 G4/1 A4/1 G4/1 F4/1 E4/1 D4/1 C4/1 C4/1 D4/1 E4/1 F4/1 F4/1 G4/1 A4/1 G4/1 G4/1 G4/1 A4/1 G4/1 F4/1 E4/1 D4/1 C4/1 C4/1 E4/1 D4/1 D4/1 C4/1 C4/2",
+  "chords": ["C", "G", "C", "F", "C", "G", "C", "G", "C", "G", "C", "F", "C", "G", "C", "C"],
+  "lead": "bell",
+  "pad": "warm",
+  "bass": "root",
+  "drums": "soft",
+  "gain": 0.7
+}

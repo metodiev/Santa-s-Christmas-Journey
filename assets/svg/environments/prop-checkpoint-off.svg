@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="168" height="360" viewBox="0 0 84 180" fill="none"><defs>
+    <filter id="cp-glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+    <g>
+      <ellipse cx="28" cy="172" rx="24" ry="5" fill="#000" opacity="0.2"/>
+      <path d="M4,176 Q4,165.2 14.8,161.6 Q9.4,154.94 14.8,158.78 Q20.2,157.62 25.6,158.1 Q31,157.8 36.4,158.01 Q41.8,157.51 47.2,158.77 Q58,164.3 58,176 Z" fill="#eef8ff"/>
+      <path d="M28,168 L28,30" stroke="#5b4a3a" stroke-width="7" stroke-linecap="round"/>
+      <path d="M28,40 L28,20" stroke="#8a6a4a" stroke-width="3"/>
+      <circle cx="28" cy="18" r="4.5" fill="#9fb2c0" stroke="#8a6a1e" stroke-width="0.8"/>
+      <path d="M30,34 C52,24 62,42 78,32 L78,72 C62,80 52,62 30,74 Z" fill="#6f8798" stroke="#00000033" stroke-width="1"/>
+      <path d="M30,34 C52,24 62,42 78,32" stroke="#ffffff" stroke-width="1.6" opacity="0.4" fill="none"/>
+      <path d="M46,48 L64,58 M64,48 L46,58" stroke="#c3d2dc" stroke-width="2" opacity="0.5"/>
+      <path d="M32,76 C46,84 60,72 76,74" stroke="#ffffff" stroke-width="1" opacity="0.3" fill="none"/>
+      
+    </g></svg>

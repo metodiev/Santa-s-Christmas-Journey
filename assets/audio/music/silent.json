@@ -1,0 +1,13 @@
+{
+  "id": "silent",
+  "title": "Silent Night (public domain, arr. generated)",
+  "bpm": 76,
+  "beatsPerBar": 3,
+  "melody": "G4/2 A4/1 G4/1 E4/2 G4/2 A4/1 G4/1 E4/2 D5/2 D5/1 B4/3 C5/3 C5/3 G4/2 A4/1 G4/1 E4/2 G4/2 A4/1 G4/1 E4/2 D5/2 D5/1 F4/1 D4/1 B4/2 C5/2 B4/1 A4/3",
+  "chords": ["C", "C", "C", "C", "G", "G", "C", "C", "C", "C", "C", "C", "G", "G", "C", "C"],
+  "lead": "glass",
+  "pad": "choir",
+  "bass": "root",
+  "drums": "none",
+  "gain": 0.66
+}

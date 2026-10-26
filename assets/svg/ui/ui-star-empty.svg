@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 40 40" fill="none"><defs>
+    <linearGradient id="star-fill" x1="0" y1="0" x2="0.3" y2="1"><stop offset="0" stop-color="#fff7cc" stop-opacity="1"/><stop offset="0.4" stop-color="#ffd166" stop-opacity="1"/><stop offset="1" stop-color="#c9902a" stop-opacity="1"/></linearGradient>
+    <filter id="star-glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+    <g>
+      
+      <path d="M20,3L24.11,14.34L36.17,14.75L26.66,22.16L29.99,33.75L20,27L10.01,33.75L13.34,22.16L3.83,14.75L15.89,14.34Z" fill="#344658" stroke="#6d8194" stroke-width="1.2"/>
+      
+    </g></svg>

@@ -1,0 +1,13 @@
+{
+  "id": "jingle",
+  "title": "Jingle Bells (public domain, arr. generated)",
+  "bpm": 148,
+  "beatsPerBar": 4,
+  "melody": "E4/1 E4/1 E4/2 E4/1 E4/1 E4/2 E4/1 G4/1 C4/1 D4/1 E4/4 F4/1 F4/1 F4/2 F4/1 E4/1 E4/2 E4/1 D4/1 D4/1 E4/1 D4/2 G4/2 E4/1 E4/1 E4/2 E4/1 E4/1 E4/2 E4/1 G4/1 C4/1 D4/1 E4/4 F4/1 F4/1 F4/2 F4/1 E4/1 E4/2 E4/1 G4/1 G4/1 F4/1 D4/1 C4/4",
+  "chords": ["C", "C", "C", "G7", "C", "C", "C", "G7", "C", "C", "C", "G7", "C", "C", "G7", "C"],
+  "lead": "bell",
+  "pad": "warm",
+  "bass": "root",
+  "drums": "sleigh",
+  "gain": 0.82
+}

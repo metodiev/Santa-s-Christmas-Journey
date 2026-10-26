@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="128" viewBox="0 0 120 64" fill="none"><defs>
+    <linearGradient id="btn-fill" x1="0" y1="0" x2="0.15" y2="1"><stop offset="0" stop-color="#1a3049" stop-opacity="1"/><stop offset="0.55" stop-color="#0b1929" stop-opacity="1"/><stop offset="1" stop-color="#060e17" stop-opacity="1"/></linearGradient>
+    <linearGradient id="btn-border" x1="0" y1="0" x2="0.2" y2="1"><stop offset="0" stop-color="#ffe9a8" stop-opacity="1"/><stop offset="0.5" stop-color="#e6bd6a" stop-opacity="1"/><stop offset="1" stop-color="#9c742c" stop-opacity="1"/></linearGradient>
+    <filter id="btn-glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+    <g>
+      
+      <rect x="4" y="4" width="112" height="56" rx="16" fill="url(#btn-fill)" stroke="url(#btn-border)" stroke-width="2.2"/>
+      <rect x="8.5" y="8.5" width="103" height="47" rx="12" fill="none" stroke="#ffffff" stroke-opacity="0.1"/>
+      <path d="M14,20 C34,12 86,12 106,20 L106,32 C86,24 34,24 14,32 Z" fill="#ffffff" opacity="0.06"/>
+      <path d="M14,50 C34,55 86,55 106,50" stroke="#9c742c" stroke-width="0.9" opacity="0.45" fill="none"/>
+      <g opacity="0.55"><circle cx="16" cy="32" r="2" fill="#e6bd6a"/><circle cx="104" cy="32" r="2" fill="#e6bd6a"/></g>
+    </g></svg>

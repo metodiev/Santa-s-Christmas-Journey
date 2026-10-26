@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 96 96" fill="none"><defs>
+    <linearGradient id="gb-body" x1="0.15" y1="0" x2="0.8" y2="1"><stop offset="0" stop-color="#e8a866" stop-opacity="1"/><stop offset="0.35" stop-color="#d08a45" stop-opacity="1"/><stop offset="0.8" stop-color="#a96428" stop-opacity="1"/><stop offset="1" stop-color="#894a16" stop-opacity="1"/></linearGradient>
+    <filter id="gb-soft" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="0.4"/></filter>
+  </defs>
+    <g transform="translate(0,0)">
+      <circle cx="45.29" cy="93.79" r="1.25" fill="#f7e8d6" opacity="0.4"/><circle cx="47.07" cy="95.57" r="2.19" fill="#f7e8d6" opacity="0.39"/><circle cx="45.71" cy="95.11" r="1.1" fill="#f7e8d6" opacity="0.39"/><circle cx="52.53" cy="93.36" r="0.96" fill="#f7e8d6" opacity="0.62"/><circle cx="36.26" cy="94.22" r="2.12" fill="#f7e8d6" opacity="0.27"/><circle cx="47.55" cy="92.92" r="1.68" fill="#f7e8d6" opacity="0.44"/><circle cx="31.91" cy="94.68" r="2.09" fill="#f7e8d6" opacity="0.61"/>
+      <g transform="translate(41,68) rotate(0)">
+        <rect x="-6" y="-2" width="12" height="22" rx="5" fill="url(#gb-body)"/>
+        <path d="M-6,12 C-1,10 4,10 6,12" stroke="#a45f25" stroke-width="0.8" opacity="0.7" fill="none"/>
+        <rect x="-7" y="13" width="14" height="5" rx="2.5" fill="#fff7ea"/>
+        <path d="M-5,15 L5,15" stroke="#e8d3b5" stroke-width="0.6" stroke-dasharray="1.5 1"/>
+        <path d="M-7,18 C-7,23 -4,25 0,25 C4,25 7,23 7,18 Z" fill="#7a3c15"/>
+      </g>
+      <g transform="translate(57,68) rotate(0)">
+        <rect x="-6" y="-2" width="12" height="22" rx="5" fill="url(#gb-body)"/>
+        <path d="M-6,12 C-1,10 4,10 6,12" stroke="#a45f25" stroke-width="0.8" opacity="0.7" fill="none"/>
+        <rect x="-7" y="13" width="14" height="5" rx="2.5" fill="#fff7ea"/>
+        <path d="M-5,15 L5,15" stroke="#e8d3b5" stroke-width="0.6" stroke-dasharray="1.5 1"/>
+        <path d="M-7,18 C-7,23 -4,25 0,25 C4,25 7,23 7,18 Z" fill="#7a3c15"/>
+      </g>
+      <g transform="translate(32,45) rotate(0)">
+        <rect x="-4" y="-1" width="9" height="27" rx="4.5" fill="url(#gb-body)"/>
+        <rect x="-5.5" y="21" width="12" height="5.5" rx="2.7" fill="#fff7ea"/>
+        <circle cx="0" cy="30" r="4.6" fill="url(#gb-body)"/>
+      </g>
+      <g transform="translate(65,45) rotate(0)">
+        <rect x="-5" y="-1" width="9" height="27" rx="4.5" fill="url(#gb-body)"/>
+        <rect x="-6.5" y="21" width="12" height="5.5" rx="2.7" fill="#fff7ea"/>
+        <circle cx="0" cy="30" r="4.6" fill="url(#gb-body)"/>
+      </g>
+      <rect x="33" y="40" width="30" height="32" rx="10" fill="url(#gb-body)"/>
+      <circle cx="48" cy="28" r="17" fill="url(#gb-body)"/>
+      <path d="M33,45 C39,42 44,42 48,43 C52,42 58,42 63,45" stroke="#fff7ea" stroke-width="2" stroke-linecap="round" fill="none" opacity="0.9"/>
+      <path d="M37,70 C41,67 45,67 48,68 C51,67 56,67 60,70" stroke="#fff7ea" stroke-width="1.8" stroke-linecap="round" fill="none" opacity="0.9"/>
+      <circle cx="42" cy="27" r="4.2" fill="#fffdf6"/>
+      <circle cx="54" cy="27" r="4.2" fill="#fffdf6"/>
+      <circle cx="42.4" cy="27.4" r="1.7" fill="#40220f"/>
+      <circle cx="53.6" cy="27.4" r="1.7" fill="#40220f"/>
+      <circle cx="41.7" cy="26.5" r="0.55" fill="#ffffff"/>
+      <circle cx="52.9" cy="26.5" r="0.55" fill="#ffffff"/>
+      <path d="M41,33 C44,36 52,36 55,33" stroke="#fffdf6" stroke-width="1.8" stroke-linecap="round" fill="none"/>
+      <path d="M33,34 C36,33 39,33 41,35 M55,35 C57,33 60,33 63,34" stroke="#e9b68a" stroke-width="1.6" stroke-linecap="round" opacity="0.8"/>
+      <circle cx="34.5" cy="38" r="2.4" fill="#e0696f" opacity="0.6"/>
+      <circle cx="61.5" cy="38" r="2.4" fill="#e0696f" opacity="0.6"/>
+      <circle cx="48" cy="48" r="2.6" fill="#d8494f"/>
+      <circle cx="48" cy="56" r="2.6" fill="#57b78b"/>
+      <circle cx="48" cy="64" r="2.6" fill="#d8494f"/>
+      <path d="M46.8,47 L49.2,47 M46.8,55 L49.2,55 M46.8,63 L49.2,63" stroke="#ffffff" stroke-width="0.5" opacity="0.7"/>
+      <path d="M34,42 C36,54 36,62 34,68 M62,42 C60,54 60,62 62,68" stroke="#8f501e" stroke-width="1" opacity="0.6"/>
+      <g transform="translate(38,86) rotate(0)">
+        <path d="M-3,0 C-6,2 -7,5 -5,6 L-2,6 L-2,2 Z" fill="#fff7ea"/>
+      </g>
+      <g transform="translate(58,86) rotate(0)">
+        <path d="M3,0 C6,2 7,5 5,6 L2,6 L2,2 Z" fill="#fff7ea"/>
+      </g>
+    </g></svg>

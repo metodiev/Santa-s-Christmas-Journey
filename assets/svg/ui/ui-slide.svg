@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="88" viewBox="0 0 44 44" fill="none"><defs><linearGradient id="slide-grad" x1="0" y1="0" x2="0.3" y2="1"><stop offset="0" stop-color="#ffe9a8" stop-opacity="1"/><stop offset="1" stop-color="#c99b42" stop-opacity="1"/></linearGradient></defs><g>
+    <path d="M22,36 L10,24 L17,24 L17,12 L27,12 L27,24 L34,24 Z" fill="url(#slide-grad)"/>
+    <path d="M8,8 C16,4 28,4 36,8" stroke="#dff3ff" stroke-width="2" opacity="0.5" fill="none"/>
+  </g></svg>
